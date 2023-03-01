@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ericson-WebDeveloper
 - 👀 I’m interested in Anime.
 - 🌱 I’m currently learning Laravel, Vuejs, React & Node.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me message me in my email
 
 <!---
