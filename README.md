@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ericson-WebDeveloper
 - 👀 I’m interested in Anime.
-- 🌱 I’m currently learning Laravel, Vuejs, React & Node.
-- 📫 How to reach me. please visit my portfolio site. you can message me there.
+- 🌱 I’m web developer knowledgeable & skilled in PHP, Laravel, Javascript, TypeScript, React, Node & Express JS, MySql, MongoDB, Rest API & etc....
+- 📫 How to reach me. please visit my portfolio site. you can message me there, or email directly.
 - 🔗 portfolio link: https://erixzon-cv-profile.netlify.app
 
 <!---
